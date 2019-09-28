@@ -7,4 +7,4 @@
 
 3.运行kg/build-triple-from-table.py生成三元组文件triples.txt,放到kg/triple.txt里面
 
-4.运行insert_to_neo4j.py将三元组存入neo4j数据库
+4.运行insert_to_neo4j.py将三元组存入neo4j数据库（注意这一步之前要现在本地主机打开neo4j数据库，否则会提示连接不上的错误）
